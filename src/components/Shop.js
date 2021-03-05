@@ -14,7 +14,7 @@ function Shop() {
 
         <ShopItem price="£3.99" itemName="CBSe Guarana Energy 1kg"><img className="w-auto h-auto mx-auto" src={image1} alt="Yerba Mate"></img></ShopItem>
            
-        <ShopItem price="£5.99" itemName="Canarias 1kg"><img className="w-auto h-auto mx-auto" src={image2} alt="Yerba Mate"></img></ShopItem>
+        <ShopItem price="£5.99" itemName="Canarias Yerba Mate 1kg"><img className="w-auto h-auto mx-auto" src={image2} alt="Yerba Mate"></img></ShopItem>
         
         <ShopItem price="£4.59" itemName="Taragui Classic 1kg"><img className="w-auto h-auto mx-auto" src={image3} alt="Yerba Mate"></img></ShopItem>
                 
